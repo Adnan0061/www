@@ -1,0 +1,62 @@
+.navbar-nav {
+	 justify-content: flex-end!important;
+}
+
+.hero {
+	background: linear-gradient(#00000040,#00000040), url(../img/icrowdme-PSD---cssauthor.png)no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 130px 0;
+	text-align: center;
+	color: white;
+}
+
+.btn {
+	background-color: #99C50A;
+	border: 1px solid black;
+}
+.btnn {
+	background-color: #FFFFFF;
+	border: 1px solid black;
+}
+
+.service {
+	padding: 150px;
+	text-align: center;
+}
+
+.service h2 {
+    margin: 15px 0;
+    padding: 15px 0;
+}
+
+.service p {
+    margin: 15px 0;
+    padding: 15px 0;
+}
+
+.find {
+	padding: 20px 0;
+} 
+
+.no-gutter {
+	margin: 0;
+	padding: 0;
+}
+
+.property {
+	background-color: #E2F8FF;
+	width: 50%;
+	float: left;
+}
+
+.buyer {
+	background-color: #E2F8FF;
+	width: 50%;
+	float: left;
+	
+}
+
+footer p {
+	text-align: center;
+}
